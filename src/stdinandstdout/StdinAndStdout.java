@@ -1,3 +1,5 @@
+package stdinandstdout;
+
 import java.io.*;
 import java.util.*;
 
