@@ -1,3 +1,6 @@
+//https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true
+
+
 package javaifelse;
 import java.util.Scanner;3
 public class JavaIfElse {

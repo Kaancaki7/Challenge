@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=false
+
 package stdinandstdout;
 
 import java.io.*;

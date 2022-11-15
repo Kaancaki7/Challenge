@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
+
 package stdinstdout2;
 import java.util.Scanner;
 public class StdinAndStdout2 {
